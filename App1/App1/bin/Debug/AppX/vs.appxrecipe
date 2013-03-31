@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>REDAPPLEWIN8</Machine>
+    <WindowsUser>Red</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>AEBA3C8B570C9884B351CEAF029941472BECC17F34E1106366D084612D710347</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ac66e04a-2229-42f9-a272-2f656667ed0c_1.0.0.0_neutral__00td7pvp4q9sm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ac66e04a-2229-42f9-a272-2f656667ed0c_00td7pvp4q9sm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ac66e04a-2229-42f9-a272-2f656667ed0c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Red</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-31T15:46:41.552</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2013-03-31T15:46:34.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\App1.pdb">
+      <PackagePath>App1.pdb</PackagePath>
+      <Modified>2013-03-31T15:46:34.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-31T15:46:20.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T12:23:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2013-03-31T08:56:00.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2013-03-31T08:56:01.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2013-03-31T08:56:01.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Com\360\360云盘\Com\GitHub\123\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-31T08:56:47.818</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

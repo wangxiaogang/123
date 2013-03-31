@@ -18,7 +18,7 @@
 
             <!-- 应用程序特定的资源-->
 
-            <x:String x:Key="AppName">App1</x:String>
+            <x:String x:Key="AppName">test</x:String>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
